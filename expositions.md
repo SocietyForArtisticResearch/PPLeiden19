@@ -25,6 +25,7 @@ transition: fade
 * Algorithmically derive structure  graphical expositions
 * Different editors for creating exposition objects
 * Use position information 
+* Written in *Haskell*
 * [https://github.com/SocietyForArtisticResearch/parse-exposition](https://github.com/SocietyForArtisticResearch/parse-exposition)
 
 # Parsing Graphical Expositions
