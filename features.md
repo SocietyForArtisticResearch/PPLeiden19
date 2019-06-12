@@ -9,6 +9,7 @@ transition: fade
 
 # Metadata / Licenses
 
+* Co-authors no longer publicly marked as co-authors. 
 * Licenses (All rights reserved, CC, public domain etc.) for media
 * Import of license information from Madek
 * Copyright and licence for expositions
