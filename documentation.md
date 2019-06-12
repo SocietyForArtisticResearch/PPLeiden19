@@ -5,30 +5,32 @@ date: June 2019
 transition: fade
 ---
 
-# documenting research
+# Documenting research
 
 * Documentation as a research tool (not just the end product)
-* RC as a thinking tool / research workspace
+* RC as a thinking tool 
+* Research workspace
 
 # Collecting 
 
-* quick sketching noodling (quick notes/memos)
-* time efficient upload of artistic materials & recordings
+* sketching/noodling 
+* quick notes/memos
+* time efficient upload of artistic materials & recordings 
 * references management (using bibliographic tools)
-* import from other writing-tools (not just word processor, but also e-learning etc..)
+* import from other writing-tools (not just word processors, but also e-learning etc..)
 
 # Structuring
 
 * at most basic: organise materials in categories
-* futher enriching: objects with metadata
-* advanced organisation express sets, relationships, traces, trajectories, 
+* futher enriching: objects with metadata / licenses etc..
+* advanced: express sets, network like relationships, traces, trajectories, 
 * ambigous / dynamic relations
 
 # Experiment
 
 * versioning
 * experiment with different layouts
-* easy rewriting / changing of metadata
+* support rewriting
 * have space for comments
 
 # Social
@@ -36,12 +38,14 @@ transition: fade
 * collaboration 
 * feedback 
 
-# Export to any format
-
-
 # what we do not want to do
 
-Replace exisiting research tools.
+* Replace exisiting research tools.
+* Just add a bunch of features
+* Simplify where possible 
+* Allow structure to be expressed using basic web techniques (hyperlinks, folders, JSON)
+* No 'clever' automated stuff
+
 
 [digital notebooks report](https://openworking.wordpress.com/2018/05/21/event-report-digital-notebooks-productivity-tools-for-researchers-on-15-03-2018/) (shared by Michael Schwab)
 
