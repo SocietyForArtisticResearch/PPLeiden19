@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="RC Team">
+  <title>Malleability of Expositions as Data</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="http://lab.hakim.se/reveal-js/css/reveal.css">
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="http://lab.hakim.se/reveal-js/css/theme/black.css" id="theme">
+  <link rel="stylesheet" href="style.css"/>
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'http://lab.hakim.se/reveal-js/css/print/pdf.css' : 'http://lab.hakim.se/reveal-js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="http://lab.hakim.se/reveal-js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Malleability of Expositions as Data</h1>
+  <p class="author">RC Team</p>
+  <p class="date">June 2019</p>
+</section>
+
+<section id="expositions-as-digital-objects" class="slide level1">
+<h1>Expositions as Digital Objects</h1>
+<ul>
+<li>Render an exposition in multiple ways</li>
+<li>Respond to display device</li>
+<li>Program the behavior of an exposition</li>
+<li>A format makes exposition independent from a single implementation</li>
+<li>Dynamic entity that can be connected to services, devices and other digital objects</li>
+<li>Ensure long term accessibility</li>
+</ul>
+</section>
+<section id="graphical-expositions-now" class="slide level1">
+<h1>Graphical Expositions Now</h1>
+<ul>
+<li>Structure (such as captions, columns, relationships, etc) are only recognizable visually</li>
+<li>Format is not specified but tied to the editor</li>
+<li>Cannot be processed, rendered differently, converted etc</li>
+</ul>
+</section>
+<section id="parsing-graphical-expositions" class="slide level1">
+<h1>Parsing Graphical Expositions</h1>
+<ul>
+<li>Algorithmically derive structure graphical expositions</li>
+<li>Different editors for creating exposition objects</li>
+<li>Use position information</li>
+<li><a href="https://github.com/SocietyForArtisticResearch/parse-exposition" class="uri">https://github.com/SocietyForArtisticResearch/parse-exposition</a></li>
+</ul>
+</section>
+<section id="parsing-graphical-expositions-1" class="slide level1">
+<h1>Parsing Graphical Expositions</h1>
+<figure>
+<img data-src="media/expo_json.png" alt="Exposition Json Object" style="width:60.0%" /><figcaption>Exposition Json Object</figcaption>
+</figure>
+</section>
+<section id="transforming-graphical-expositions" class="slide level1">
+<h1>Transforming Graphical Expositions</h1>
+<ul>
+<li>epub conversion</li>
+<li>Markdown conversion</li>
+<li>Mobile view</li>
+</ul>
+</section>
+<section id="potential-uses-and-applications" class="slide level1">
+<h1>Potential Uses and Applications</h1>
+<ul>
+<li>Conversion to/from established document formats</li>
+<li>Transfer between editors</li>
+<li>Implementation of new editors for graphical expositions</li>
+<li>Collecting metadata and analyzing expositions</li>
+<li>Archiving</li>
+<li>Dynamic rendering and programmable structures</li>
+</ul>
+</section>
+<section id="networks-of-digital-objects-on-the-rc" class="slide level1">
+<h1>Networks of Digital Objects on the RC</h1>
+<ul>
+<li>Create links between expositions and works</li>
+<li>Dynamically create expositions with content from other expositions</li>
+<li>Create pages around key words with works and (parts of) expositions</li>
+</ul>
+</section>
+    </div>
+  </div>
+
+  <script src="http://lab.hakim.se/reveal-js/lib/js/head.min.js"></script>
+  <script src="http://lab.hakim.se/reveal-js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        // Transition style
+        transition: 'fade', // none/fade/slide/convex/concave/zoom
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'http://lab.hakim.se/reveal-js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'http://lab.hakim.se/reveal-js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'http://lab.hakim.se/reveal-js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
