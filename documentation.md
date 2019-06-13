@@ -22,7 +22,7 @@ transition: fade
 # Structuring
 
 * at most basic: organise materials in categories
-* futher enriching: objects with metadata / licenses etc..
+* further enriching: objects with metadata / licenses etc..
 * advanced: express sets, network like relationships, traces, trajectories, 
 * ambigous / dynamic relations
 
