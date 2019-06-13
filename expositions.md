@@ -12,7 +12,8 @@ transition: fade
 * Program the behavior of an exposition
 * A format makes exposition independent from a single implementation
 * Dynamic entity that can be connected to services, devices and other digital objects
-* Ensure long term accessibility
+* Ensure (long term) accessibility
+* Extensibility 
 
 # Graphical Expositions Now
 
@@ -22,7 +23,7 @@ transition: fade
 
 # Parsing Graphical Expositions
 
-* Algorithmically derive structure  graphical expositions
+* Algorithmically derive structure graphical expositions
 * Different editors for creating exposition objects
 * Use position information 
 * Written in *Haskell*
@@ -47,6 +48,7 @@ transition: fade
 * Archiving
 * Dynamic rendering and programmable structures
 * Copyediting
+
 
 # Networks of Digital Objects on the RC
 

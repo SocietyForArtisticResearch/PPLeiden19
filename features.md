@@ -7,6 +7,9 @@ transition: fade
 
 # Word Import
 
+* Converts Word or Odt files into HTML and image tools
+* Tools need to be arranged manually
+
 # Metadata / Licenses
 
 * Co-authors no longer publicly marked as co-authors. 
@@ -24,11 +27,11 @@ transition: fade
 
 # Importing HTML
 
-Allows user to upload a zip file of HTML, media and stylesheets.
+Allows user to upload a zip file of HTML, media and stylesheets
 
-* Needs to be a flat folder (currently no nested structures).
-* Any media will be automatically transcoded.
-* Starting point is called index.html.
+* Needs to be a flat folder (currently no nested structures)
+* Any media will be automatically transcoded
+* Entry point is called index.html
 
 # New Text-based Editor 
 
