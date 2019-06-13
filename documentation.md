@@ -42,10 +42,11 @@ transition: fade
 
 * Replace exisiting research tools.
 * Just add a bunch of features
-* Simplify where possible 
-* Allow structure to be expressed using basic web techniques (hyperlinks, folders, JSON)
-* No 'clever' automated stuff
 
+# Rather
+* Simplify where possible 
+* Structure expressed using basic web techniques (text, hyperlinks, folders, JSON)
+* No 'clever' automated stuff
 
 [digital notebooks report](https://openworking.wordpress.com/2018/05/21/event-report-digital-notebooks-productivity-tools-for-researchers-on-15-03-2018/) (shared by Michael Schwab)
 
