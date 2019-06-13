@@ -7,9 +7,9 @@ transition: fade
 
 # Documenting research
 
-* Documentation as a research tool (not just the end product)
+* Documentation workflow as a research tool (not just the end product)
 * RC as a thinking tool 
-* Research workspace
+* Research workspace, a container of process
 
 # Collecting 
 
@@ -41,12 +41,13 @@ transition: fade
 # what we do not want to do
 
 * Replace exisiting research tools.
-* Just add a bunch of features
+* Add these things as just new features 
 
 # Rather
-* Simplify where possible 
+
 * Structure expressed using basic web techniques (text, hyperlinks, folders, JSON)
-* No 'clever' automated stuff
+* put in another way: formalize notation within the current format.
+* No 'clever' automated stuff (just causes bugs or frustration, we don't have budget to do that well)
 
 [digital notebooks report](https://openworking.wordpress.com/2018/05/21/event-report-digital-notebooks-productivity-tools-for-researchers-on-15-03-2018/) (shared by Michael Schwab)
 
