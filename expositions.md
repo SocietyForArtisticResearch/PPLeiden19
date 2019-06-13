@@ -46,6 +46,7 @@ transition: fade
 * Collecting metadata and analyzing expositions 
 * Archiving
 * Dynamic rendering and programmable structures
+* Copyediting
 
 # Networks of Digital Objects on the RC
 

@@ -8,20 +8,21 @@ transition: fade
 # Structure 
 
 * New format will allow us to express and process structure
-* We need to describe structural concepts for exposition
+* Not only a technical question but a conceptual one
+* We need to find structural concepts we need
 * What is an exposition? 
 
 # Questions
 
-* How to leave space for ambiguity?
 * How do want to express structure?
+* How to leave space for ambiguity?
 * How do we want to express relationships of objects?
 * How do we want to navigate expositions?
 * What type of abstractions do we need? 
 
 # A few ideas
 
-* Column, sequence, footnote
+* Columns, sequences, footnotes, main text, headers...
 * Annotation
 * *Paths* through an exposition
 * Timeline
