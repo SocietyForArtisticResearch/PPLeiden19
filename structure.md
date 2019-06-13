@@ -9,7 +9,7 @@ transition: fade
 
 * New format will allow us to express and process structure
 * Not only a technical question but a conceptual one
-* We need to find structural concepts we need
+* We need to define structural concepts 
 * What is an exposition? 
 
 # Questions
@@ -27,4 +27,5 @@ transition: fade
 * *Paths* through an exposition
 * Timeline
 * An event based network of triggers
+* Record of a conversation or event 
 * Define multiple ways of reading, seeing, listening to an exposition
