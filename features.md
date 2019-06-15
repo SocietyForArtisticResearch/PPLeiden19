@@ -7,6 +7,10 @@ transition: fade
 
 # Word Import
 
+
+example:
+https://www.researchcatalogue.net/view/561381/563632
+
 # Metadata / Licenses
 
 * Co-authors no longer publicly marked as co-authors. 
@@ -26,9 +30,10 @@ transition: fade
 
 Allows user to upload a zip file of HTML, media and stylesheets.
 
-* Needs to be a flat folder (currently no nested structures).
-* Any media will be automatically transcoded.
-* Starting point is called index.html.
+* Needs to be a flat folder (currently no nested structures)
+* Any media will be automatically transcoded
+* Starting point is called index.html
+
 
 # New Text-based Editor 
 
