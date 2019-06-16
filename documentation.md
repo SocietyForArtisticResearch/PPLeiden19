@@ -15,30 +15,30 @@ transition: fade
 
 # Collecting 
 
-* sketching/noodling 
-* quick notes/memos
-* time efficient upload of artistic materials & recordings 
-* references management (using bibliographic tools)
-* import from other writing-tools (not just word processors, but also e-learning etc..)
+* Sketching/noodling 
+* Quick notes/memos
+* Time efficient upload of artistic materials & recordings 
+* References management (using bibliographic tools)
+* Import from other writing-tools (not just word processors, but also e-learning etc..)
 
 # Structuring
 
-* at most basic: organise materials in categories
-* further enriching: objects with metadata / licenses etc..
-* advanced: express sets, network like relationships, traces, trajectories, 
-* ambigous / dynamic relations
+* At most basic: organise materials in categories
+* Further enriching: objects with metadata / licenses etc..
+* Advanced: express sets, network like relationships, traces, trajectories, 
+* Ambiguous / dynamic relations
 
 # Experimenting
 
-* versioning
-* experiment with different layouts
-* support rewriting
-* have space for comments
+* Versioning
+* Experiment with different layouts
+* Support rewriting
+* Have space for comments
 
 # Sharing
 
-* collaboration 
-* feedback 
+* Collaboration 
+* Feedback 
 
 # What we do not want to do
 
