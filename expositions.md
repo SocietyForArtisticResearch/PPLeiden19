@@ -35,7 +35,7 @@ transition: fade
 
 # Transforming Graphical Expositions
 
-* epub conversion
+* EPUB conversion
 * Markdown conversion
 * Mobile view
 

@@ -8,8 +8,7 @@ transition: fade
 # Word Import
 
 
-example:
-https://www.researchcatalogue.net/view/561381/563632
+Example: [https://www.researchcatalogue.net/view/561381/563632](https://www.researchcatalogue.net/view/561381/563632)
 
 * Converts Word or Odt files into HTML and image tools
 * Tools need to be arranged manually
@@ -46,4 +45,5 @@ Allows user to upload a zip file of HTML, media and stylesheets
 * [https://github.com/SocietyForArtisticResearch/texteditor-elm](https://github.com/SocietyForArtisticResearch/texteditor-elm)
 * Easier to maintain and to extend, less dependencies 
 * More elegant, efficient and robust technical design
+* Spellchecker 
 * Prepared for upcoming developments of editor(s)
