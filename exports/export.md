@@ -144,12 +144,6 @@ Object Matter*, ed. by Eva Respini (New York: The Museum of Modern Art,
 
 ![](https://media.researchcatalogue.net/rc/cache/27/80/63/43/278063432a642f6dd932759a2e2d46cb.png?t=374d3da4780f497898c266e66da1495f&e=1560759000)
 
-  -------- ----------
-  fig. 5   Blossoms
-
-  -------- ----------
-
-![]()
 
   -------- ------------------
   fig. 7   Nude Beach Bound

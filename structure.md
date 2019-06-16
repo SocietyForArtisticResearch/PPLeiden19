@@ -22,6 +22,7 @@ transition: fade
 
 # A few ideas
 
+* Next page, previous page
 * Columns, sequences, footnotes, main text, headers...
 * Annotation
 * *Paths* through an exposition
