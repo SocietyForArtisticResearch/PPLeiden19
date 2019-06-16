@@ -48,7 +48,7 @@ transition: fade
 * Archiving
 * Dynamic rendering and programmable structures
 * Copyediting
-
+* External version control
 
 # Networks of Digital Objects on the RC
 
