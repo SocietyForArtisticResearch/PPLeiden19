@@ -1,0 +1,14 @@
+* tero
+** preload for video in text-based editor
+** auto check exposition for problems, warning
+*** fonts
+*** tool overlap
+** reviewer list make reviewers see same way that admins see, with preview
+** in revision and editing
+* jonas
+** sync with template css
+** collect css snippets in the css template
+* other
+** font upload, font selection
+** editions
+** pseudonym author, how to see original authors

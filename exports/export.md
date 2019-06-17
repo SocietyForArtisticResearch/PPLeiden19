@@ -105,54 +105,60 @@ Object Matter*, ed. by Eva Respini (New York: The Museum of Modern Art,
 
   --- ---------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/04/a0/47/9e/04a0479eaef78992666fdc13eb218d8f.png?t=97dbf112d2b9b8ce7099bacd87eb8e35&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/04/a0/47/9e/04a0479eaef78992666fdc13eb218d8f.png?t=7f3fe174d2fe28b68ac562f64164e6d3&e=1560867000)
 
   -------- --------------
   fig. 2   *Double Sun*
 
   -------- --------------
 
-![](https://media.researchcatalogue.net/rc/cache/85/d4/62/27/85d462270684da5d45ed3fa1292bf8d1.png?t=3f0a634e1e88db1626b6891950fdeb08&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/85/d4/62/27/85d462270684da5d45ed3fa1292bf8d1.png?t=b3baa04e76f08f60c35844bc6761e4bf&e=1560867000)
 
   -------- ---------------------
   fig. 4   Sequence \#5 (Snow)
 
   -------- ---------------------
 
-![](https://media.researchcatalogue.net/rc/cache/a8/b6/74/80/a8b6748043fbac78c0e929eb13ef205d.png?t=97364c832d9cb56acdcb10d7d8d491c8&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/a8/b6/74/80/a8b6748043fbac78c0e929eb13ef205d.png?t=f67dba94a5cce3756101b593f67d2604&e=1560867000)
 
   -------- ------------------------------
   fig. 6   Sequence \#3 (Wedding Party)
 
   -------- ------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/bd/21/c6/f3/bd21c6f34e31becebb1890e0001610cf.png?t=132d0d02f5b20de860c802d5f6470927&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/bd/21/c6/f3/bd21c6f34e31becebb1890e0001610cf.png?t=2fe2fdfc56a26e388eea346b5f3a9e89&e=1560867000)
 
   -------- ------------------
   fig. 9   Eclipse (detail)
 
   -------- ------------------
 
-![](https://media.researchcatalogue.net/rc/cache/a2/33/d6/51/a233d6512a7268d4b380379805df79b6.png?t=e9b24a82b80a6e9df4ec97c00646fe6b&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/a2/33/d6/51/a233d6512a7268d4b380379805df79b6.png?t=ef257df7973efb2f3492b30c06d30b1c&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/13/ab/33/de/13ab33de13652719b95a960e46927a4a.png?t=f5053f3f7fb98ff02f557e2e1ff193de&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/13/ab/33/de/13ab33de13652719b95a960e46927a4a.png?t=8384c0127ccb50473e20361fb3de6798&e=1560867000)
 
   -------- ----------------
   fig. 3   Black Mountain
 
   -------- ----------------
 
-![](https://media.researchcatalogue.net/rc/cache/27/80/63/43/278063432a642f6dd932759a2e2d46cb.png?t=374d3da4780f497898c266e66da1495f&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/27/80/63/43/278063432a642f6dd932759a2e2d46cb.png?t=c6bbd9ff7a3ed9c67d2dc7055f6aa445&e=1560867000)
 
+  -------- ----------
+  fig. 5   Blossoms
+
+  -------- ----------
+
+![]()
 
   -------- ------------------
   fig. 7   Nude Beach Bound
 
   -------- ------------------
 
-![](https://media.researchcatalogue.net/rc/cache/c2/e7/4d/d3/c2e74dd37730579e94edb7c7aba10a24.png?t=402cc184f1c6c5e7fc8ae32513028e62&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/c2/e7/4d/d3/c2e74dd37730579e94edb7c7aba10a24.png?t=9198ac4e1a4f8b9e48eff679220ce81a&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/3a/ee/5f/1d/3aee5f1d9dd82e1eed68f916078bccc4.png?t=cc1f601944b1a0d83db64e4450a0a3d2&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/3a/ee/5f/1d/3aee5f1d9dd82e1eed68f916078bccc4.png?t=7ff3645e4261629a675305980f62231b&e=1560867000)
 
   -------- ----------
   fig. 8   Hololool
@@ -351,46 +357,46 @@ through Photography*, (Cologne: Verlag der Buchhandlung Walter König,
 
   ------------------------------------------------------------------------- ---------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/8c/ae/a5/27/8caea527bf2533fc062eb4b72656c179.png?t=b0a8ed7528898082292a248db4b52807&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/8c/ae/a5/27/8caea527bf2533fc062eb4b72656c179.png?t=597edd4f431d09e7bed6465caf571116&e=1560867000)
 
   --------- ----------------------------------------------------------------------------------------------
   fig. 11   Willème's photography studio with 24 synchronized camera's in a round, glass-domed pavilion.
 
   --------- ----------------------------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/1b/a1/bd/ee/1ba1bdee5e605d9fa88ef5d722aed875.png?t=20450848c6dbebe157fdaec0c3d1b804&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/1b/a1/bd/ee/1ba1bdee5e605d9fa88ef5d722aed875.png?t=23c7ba8fe39bbf19b49555b06177dfa2&e=1560867000)
 
   --------- ------------------------------------------------------------------------------------------
   fig. 12   Willème's conversion method to translate photographs into sculptures through projection.
 
   --------- ------------------------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/d6/6c/37/78/d66c3778cbbb18d1befd53cd4b3507b2.png?t=4122ed8bbce5f57e5fbddf52b5374e7c&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/d6/6c/37/78/d66c3778cbbb18d1befd53cd4b3507b2.png?t=c6e9dc417c6b6a3ade31c8ef66513a0a&e=1560867000)
 
   --------- --------------------------------------------------------------------------
   fig. 13   Marey's chronophotograph of a seagull in flight in successive sequences.
 
   --------- --------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/cf/da/f7/1d/cfdaf71db50207fa40eadb9e09855f3f.png?t=f9a4280719c4d66985ddbdc8feb61c62&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/cf/da/f7/1d/cfdaf71db50207fa40eadb9e09855f3f.png?t=dcf6741f59483ab0d2514a6264950b29&e=1560867000)
 
   --------- ----------------------------------------------------------------------------------------------------------------------------------------
   fig. 14   Marey's test-site with three chronophotographic camera's to simultaneously photograph a seagull in flight from three different angels.
 
   --------- ----------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/31/3d/e9/13/313de91363ef903180c684e6437add26.png?t=8dbf26ce0ae896c11df8fe91e1d4e943&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/31/3d/e9/13/313de91363ef903180c684e6437add26.png?t=6ace89236d098b1146a87285cbeefc3b&e=1560867000)
 
   --------- -------------------------------------------------------------------------
   fig. 15   Marey's photo-sculpture of a seagull in flight in successive sequences.
 
   --------- -------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/47/91/6e/29/47916e29eb360dc1779b877d012c802e.png?t=d2ce5fe1f0884a45fcf46d873d56cd20&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/47/91/6e/29/47916e29eb360dc1779b877d012c802e.png?t=2cdabf23eecff73e9a4b36193923b58d&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/7b/9f/d9/5a/7b9fd95ab002de524a337c3441368ef7.png?t=cb52642c36f89860990937abfd329534&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/7b/9f/d9/5a/7b9fd95ab002de524a337c3441368ef7.png?t=e189e93a8485b90d70dca20c873980a6&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/f6/58/30/27/f658302768dae117a90c346e83dad911.png?t=a77d333f82d3b754f278c7bab32f71f3&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/f6/58/30/27/f658302768dae117a90c346e83dad911.png?t=21715d9e2331b357666b4c1aa4b8daad&e=1560867000)
 
   --------- -------------------------------------------------------------------------
   fig. 16   Marey's chronophotograph of a seagull in flight in one merged sequence.
@@ -521,24 +527,24 @@ Photography’ (2016).
 
   ------------------------------------------------------------------------- ---------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/ba/48/26/d0/ba4826d0bddf24826f1db5406b7afaf0.png?t=252425dd684f81e83f2fd2c16ffecc42&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/ba/48/26/d0/ba4826d0bddf24826f1db5406b7afaf0.png?t=f49e291703b292f1eb09219d9537274e&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/ef/e5/51/a4/efe551a4446e1a578b3c60f11403dd5b.png?t=dd569b7bbf3ab628c70decaf201c0ed1&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/ef/e5/51/a4/efe551a4446e1a578b3c60f11403dd5b.png?t=05d85ea9d356268127d1c3e035fefc7b&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/ea/fe/bb/3d/eafebb3d1458825f84ab71c1dbd2cffc.png?t=51d9be35505e01dba465549457cac50f&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/ea/fe/bb/3d/eafebb3d1458825f84ab71c1dbd2cffc.png?t=d8c71b956b0ab31603fc317f2a1f3e69&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/db/09/26/a8/db0926a8fe1bff85f34c392f08d309e8.png?t=be0d75f05d961dc01ba7024e3fe3affb&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/db/09/26/a8/db0926a8fe1bff85f34c392f08d309e8.png?t=5898e341414727e6d87213dc2dbcf50f&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/79/31/11/be/793111be9932145ce697bbef6532a6e6.png?t=228dc78475a7ef61b342397792c74560&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/79/31/11/be/793111be9932145ce697bbef6532a6e6.png?t=cdde7d4ec2cb27f19e5e697d3ab03566&e=1560867000)
 
   --------- ----------------------
   fig. 21   3D-print, side views
 
   --------- ----------------------
 
-![](https://media.researchcatalogue.net/rc/cache/be/2e/a0/d6/be2ea0d66e3c5e98ff33f1953e730dee.png?t=a6d92d16a562571fabd0153e2443c5ef&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/be/2e/a0/d6/be2ea0d66e3c5e98ff33f1953e730dee.png?t=a00d0be886e3a6a798631a9896d60788&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/d0/61/f7/3a/d061f73a64598bc95afcf488de64ac4b.png?t=bca1d0e40f8a21b87fc0bd799e90b62c&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/d0/61/f7/3a/d061f73a64598bc95afcf488de64ac4b.png?t=43065deae84a1cf432c9f797baffa94b&e=1560867000)
 
   --------- -----------------------------------------------------
   fig. 18   Digital photograph of a photographing family member
@@ -570,15 +576,15 @@ Photography’ (2016).
 
   ---------- ----------------------
 
-![](https://media.researchcatalogue.net/rc/cache/57/08/d2/2e/5708d22ee0f66977f2a256dcb5a9f866.png?t=0a197ccf2659e094327aebbfe7cdd30a&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/57/08/d2/2e/5708d22ee0f66977f2a256dcb5a9f866.png?t=309358beb97560b2de7d548630e158ef&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/79/61/74/e5/796174e533c0a85de3c5bf4382dfcdcf.png?t=26b39e097fe408e0ecadccccb45c910c&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/79/61/74/e5/796174e533c0a85de3c5bf4382dfcdcf.png?t=cf074c8275eb78a162fbf134878f8f24&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/ea/8b/d0/d7/ea8bd0d7feb84c3bbcbbddd31c871695.png?t=a2450fc107dcb4a643fbd052d78f708d&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/ea/8b/d0/d7/ea8bd0d7feb84c3bbcbbddd31c871695.png?t=0c11046135517b47169e732611cf438b&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/74/8e/16/e1/748e16e19f339a11c39873992da496be.png?t=ec819bee6d1f34d7639eb21e2a7d83ae&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/74/8e/16/e1/748e16e19f339a11c39873992da496be.png?t=2736be81afd42762c0e84f292c09a404&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/ae/c3/f8/7d/aec3f87db16b5b5d18f6e35186820786.png?t=09f2469d9cdc6dbc5c365ec270e21462&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/ae/c3/f8/7d/aec3f87db16b5b5d18f6e35186820786.png?t=aac5a780ee915e6c9f22bf657b36878c&e=1560867000)
 
   --------- -----------------------------------
   fig. 20   Digital 3D render of photographer
@@ -752,25 +758,25 @@ a World and a Satellite*, 1874.
 
   ------------------------------------------------------------------------- ---------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/fb/6f/2e/3d/fb6f2e3d482dc5469987bc1139089497.png?t=8f1fc1762b96c9fab9073a14a53b8d97&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/fb/6f/2e/3d/fb6f2e3d482dc5469987bc1139089497.png?t=7a9b08e70467236d8286d8ee80b982f7&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/22/0a/33/4d/220a334d1219e41f8ac2cee238efce61.png?t=4717805ee477af14a3c6e267ea4cb571&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/22/0a/33/4d/220a334d1219e41f8ac2cee238efce61.png?t=e817a852bf0bc8773db3a853672ad074&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/eb/e0/68/63/ebe068633f395906eeac80e3ecc0a87c.png?t=c44f2b33fe6bbd138bb38653d9dced50&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/eb/e0/68/63/ebe068633f395906eeac80e3ecc0a87c.png?t=32fecc26a2d1c06c764f332d59ad8c7e&e=1560867000)
 
   --------- -----------------------------------------------------
   fig. 28   Etienne-Louis Boullée’s *Cenotaph for Isaac Newton*
 
   --------- -----------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/4a/20/03/c5/4a2003c52f502e0aaa349c279b031dc9.png?t=16846099ea1ec59def7659d87be70572&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/4a/20/03/c5/4a2003c52f502e0aaa349c279b031dc9.png?t=aab369a2f852a05f6c462229929bba53&e=1560867000)
 
   --------- --------------------------------
   fig. 29   Charles Delanglard's *Georama*
 
   --------- --------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/1a/ad/99/f8/1aad99f83c7a0886bb947c17f457e8f1.png?t=50002bcec28ecda3de10958f268ebe26&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/1a/ad/99/f8/1aad99f83c7a0886bb947c17f457e8f1.png?t=7eae67c648de530249078845f57bdb2a&e=1560867000)
 
   --------- ------------------------------------
   fig. 31   Raoul Grimion-Sanson’s *Cinéorama*
@@ -787,7 +793,7 @@ a World and a Satellite*, 1874.
 
   --------- ---------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/43/18/94/9b/4318949b614f6438f1660aacb7fbc292.png?t=7a5222a9f3f0ad885bca0c49862f55b4&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/43/18/94/9b/4318949b614f6438f1660aacb7fbc292.png?t=c4ed4bd0c51d1e12846ff513859afd66&e=1560867000)
 
   --------- ----------------------------
   fig. 30   James Wyld's *Great Globe*
@@ -885,63 +891,63 @@ outcome is a solidified photograph of landscape and memory. \[fig. 39\]
 
   ------------------------------------------------------------------------- ---------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/57/35/18/a8/573518a801f3052e1d177e855b83b5c1.png?t=dcf278cde3bade62110120fd65f2d263&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/57/35/18/a8/573518a801f3052e1d177e855b83b5c1.png?t=e2f58bd946f16f07c9d541209415ec1e&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/derivative/0f/39/02/4d/0f39024d080e58beae0df67d4dfe02c1.mp4?t=3a8913924cfa031b4d7dc536fccc999e&e=1560759000)
+![](https://media.researchcatalogue.net/rc/derivative/0f/39/02/4d/0f39024d080e58beae0df67d4dfe02c1.mp4?t=8a46a2c473935f8778469f7d0f914975&e=1560867000)
 
   --------- ------------------------------------------------------------------------------------------------------
   fig. 33   360° x 180° photosphere of a tarpaper shack in my father’s garden and its 3D conversion in Cinema 4D
 
   --------- ------------------------------------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/8c/51/5f/2f/8c515f2f144bb41f3bddfdaf0fe63cd5.png?t=0751939a87620f6eb987c045d7cf348d&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/8c/51/5f/2f/8c515f2f144bb41f3bddfdaf0fe63cd5.png?t=ea3a48903f63ab5b60e9bcd203ee8d42&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/15/ec/10/2c/15ec102cb9d828e7a19e6edeea715da5.png?t=86818fc94414067127b6aa8a6088a92a&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/15/ec/10/2c/15ec102cb9d828e7a19e6edeea715da5.png?t=282703b5cdd3cdeca41ec701170b40d8&e=1560867000)
 
   --------- --------------------------------------------------------------------------------------------------
   fig. 34   360° x 180° photosphere of a train tunnel in the village and digital render of its 3D conversion
 
   --------- --------------------------------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/4a/a0/da/80/4aa0da80d8afa7d233ce20324200b380.png?t=aaa629035e9618b4e8093d9830ece2d1&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/4a/a0/da/80/4aa0da80d8afa7d233ce20324200b380.png?t=bfdab3eb5b09a04e3c59975bcd0efb87&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/16/a7/6b/75/16a76b75142ead817e5c62a8bba7ad90.png?t=135f23c8d4bc6598c90e5f4f7ca8ed24&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/16/a7/6b/75/16a76b75142ead817e5c62a8bba7ad90.png?t=e53429cfe4f81f30cc189cbbcd55d083&e=1560867000)
 
   --------- -----------------------------------------------------------------------------
   fig. 36   360° x 180° photosphere of a forest and digital render of its 3D conversion
 
   --------- -----------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/04/30/f9/ec/0430f9ec320a5b8ebeb83bb8b5ea122d.png?t=194d6d1ae45bbf2a5e239d627427432b&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/04/30/f9/ec/0430f9ec320a5b8ebeb83bb8b5ea122d.png?t=9e8d2ad5a51046e5b51b3351b143129b&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/b2/01/9e/c2/b2019ec2a75ed35ccbddc8ef5165735c.png?t=a0a35590f1218ba0bba81b4476f42e30&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/b2/01/9e/c2/b2019ec2a75ed35ccbddc8ef5165735c.png?t=a22fe780404437fd5bae044702b1c981&e=1560867000)
 
   --------- -------------------------------------------------------------------------------------
   fig. 38   360° x 180° photosphere of a road with tree and digital render of its 3D conversion
 
   --------- -------------------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/d6/44/e9/3c/d644e93c4e80a824c2c337d30f2774ee.png?t=d1adb3b11fd704c6c5aec1896705bb49&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/d6/44/e9/3c/d644e93c4e80a824c2c337d30f2774ee.png?t=d8e5da4bdd1de28678f42c17e7d22ba1&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/6d/42/3b/00/6d423b0091275e9b8e4f8d1be3d0a7d7.png?t=0f94910fb8b12741d89d5061c3695323&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/6d/42/3b/00/6d423b0091275e9b8e4f8d1be3d0a7d7.png?t=69a8603b6521aa1bdff8ebb4c7e27080&e=1560867000)
 
   --------- ----------------------------------------------------------------------------------------------------------
   fig. 35   360° x 180° photosphere of a roundabout sculpture in the village and digital render of its 3D conversion
 
   --------- ----------------------------------------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/97/51/46/93/975146938239790158d9e38d3a7af30b.png?t=a4822c960bd7ec7c715681fd0f9cda48&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/97/51/46/93/975146938239790158d9e38d3a7af30b.png?t=bab6810adb2c9b1dc86145ab7931e037&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/71/1c/1e/ae/711c1eae1ea248b480ddecdd67355d4a.png?t=4f28f45c5625d275c04f2b709aecd9a0&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/71/1c/1e/ae/711c1eae1ea248b480ddecdd67355d4a.png?t=29cfc880fe999a9682c99c0ab5b66636&e=1560867000)
 
   --------- ---------------------------------------------------------------------------
   fig. 37   3D print in plastic of the photosphere, from 3D printer to finished model
 
   --------- ---------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/73/af/ed/b1/73afedb1c5b233a07335d6970bf73888.png?t=f4aea488cf0fe42befebd059b53146d3&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/73/af/ed/b1/73afedb1c5b233a07335d6970bf73888.png?t=479ad100c708c7b621aa50f80c33c87c&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/73/06/d0/1e/7306d01efed34eea5fd70f415d3c662b.png?t=5256776d1d663626a3202b4d02ad744f&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/73/06/d0/1e/7306d01efed34eea5fd70f415d3c662b.png?t=1b234a5fc988257476e6db94e4558509&e=1560867000)
 
   --------- --------------------------------------------------------------
   fig. 39   3D print in titanium of the photosphere, seen from two sides
@@ -1054,17 +1060,17 @@ Vintage Books, 2000).
 
   ------------------------------------------------------------------------- -------------------------------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/9f/af/dd/d6/9fafddd6d834e51accd8824d5cf4022b.png?t=faeb9a9869bd2801173296a4f0bd4c3b&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/9f/af/dd/d6/9fafddd6d834e51accd8824d5cf4022b.png?t=18ce8a5d133354258c6489dc472d7acf&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/81/99/c4/f6/8199c4f64f9f1e595c7f684898bfa3a1.png?t=42d4956e4758694b2035251fd0b8da8e&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/81/99/c4/f6/8199c4f64f9f1e595c7f684898bfa3a1.png?t=97a51659cbfa8c86ab5e2a5a247168cc&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/7a/d7/98/9a/7ad7989ae042dd3fd16a7d555d1380cb.png?t=acd83efd87e998496d0e82ba8bee0cae&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/7a/d7/98/9a/7ad7989ae042dd3fd16a7d555d1380cb.png?t=f07273e569ac62339fb17ca61a9316ad&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/e5/95/ba/c1/e595bac1e09f7d1dd905956044fb2b30.png?t=741f21cb913e6a62f557cee77a2a76c0&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/e5/95/ba/c1/e595bac1e09f7d1dd905956044fb2b30.png?t=642b7c1d3190be2bf464cacc9aadc31a&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/ca/5e/5a/e8/ca5e5ae86b4b9713e8344f02b311204f.png?t=df16299888ffdf011ab7498cf111b8fa&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/ca/5e/5a/e8/ca5e5ae86b4b9713e8344f02b311204f.png?t=dbbac32dbcb856ea9f62b4c667a4fb94&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/e5/2a/4e/09/e52a4e09095b00270f29933d7c23ee49.png?t=a8303895262334e2827c60ca236b69c6&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/e5/2a/4e/09/e52a4e09095b00270f29933d7c23ee49.png?t=695e74ad0071d380afebd15365f3d8e8&e=1560867000)
 
   --------- --------------------------
   fig. 40   *50°57'11"N × 5°27'05"E*
@@ -1097,15 +1103,15 @@ Vintage Books, 2000).
 
   --------- -------------------------------------------------
 
-![](https://media.researchcatalogue.net/rc/cache/07/cf/b9/a5/07cfb9a5e75f67fa1779a3aaa6f636ae.png?t=ebbc7cc4bdc29f150b2de92ba1066649&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/07/cf/b9/a5/07cfb9a5e75f67fa1779a3aaa6f636ae.png?t=2c885b79d1b28a6986a17990dbe28319&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/20/4a/c6/d6/204ac6d640c4b2b2c78daf271bdca2a0.png?t=b47bd369f99735dbc60a46195364d601&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/20/4a/c6/d6/204ac6d640c4b2b2c78daf271bdca2a0.png?t=53cbe3aa950063d9542083599118287c&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/c2/ac/22/e2/c2ac22e24969fa53cab760dd4a2ecab3.png?t=a40ddc93dc66e5ae18327e79a2487093&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/c2/ac/22/e2/c2ac22e24969fa53cab760dd4a2ecab3.png?t=7d09a9cd14ff1f5b9b7ec84b62febf6f&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/7d/f8/1b/a7/7df81ba7876ac38c90df3c4cb82c6215.png?t=de827272ebc330a26a26e72e71a79323&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/7d/f8/1b/a7/7df81ba7876ac38c90df3c4cb82c6215.png?t=cec2bb4a70b674b0051da93674f5bc05&e=1560867000)
 
-![](https://media.researchcatalogue.net/rc/cache/d6/71/9f/e7/d6719fe7447b53b568d443a073e7a1e7.png?t=29a5dfdf062cf559efb539e3b2af8d4d&e=1560759000)
+![](https://media.researchcatalogue.net/rc/cache/d6/71/9f/e7/d6719fe7447b53b568d443a073e7a1e7.png?t=72a062a1cbbdf1b91fc054904fe635b4&e=1560867000)
 
 [TABLE]
 
